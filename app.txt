@@ -3,3 +3,4 @@ app ver 0.3
 appname = “alom”
 add login
 add logout
+add sign in
